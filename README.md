@@ -130,3 +130,18 @@ gem build bay_jekyll_theme.gemspec
 ```sh
 gem push bay_jekyll_theme-1.x.x.gem
 ```
+
+로컬에서 서버 작동
+jekyll serve
+
+번들 에러날경우
+$ bundle exec jekyll serve
+
+번들 인스톨 
+$ bundle install
+
+$ gem install bundler
+
+
+
+

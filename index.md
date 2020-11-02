@@ -10,5 +10,5 @@ profile_picture:
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  You can find the source code and the instructions on <a href="https://github.com/mandoo1027/mandoo1027.github.io.git">GitHub</a>.
 </p>
